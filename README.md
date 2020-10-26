@@ -1,3 +1,7 @@
+## Announcement:
+ # This project is dead and no longer supported. Alternatives 
+https://github.com/pymysql/mysqlclient-python
+
 MySQLdb1
 ========
 
